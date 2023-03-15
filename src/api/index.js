@@ -13,7 +13,7 @@ const URL = 'https://travel-advisor.p.rapidapi.com/restaurants/list-in-boundary'
             tr_longitude: ne.lng,
           },
           headers: {
-            'X-RapidAPI-Key': 'c86f4a5bdcmsh12bc6275b1e77d8p1c1879jsn2f8f655ee3b7',
+            'X-RapidAPI-Key': 'your key',
             'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com'
           }
         });
