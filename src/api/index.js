@@ -10,7 +10,7 @@ import axios from "axios";
             tr_longitude: ne.lng,
           },
           headers: {
-            'X-RapidAPI-Key': 'key',
+            'X-RapidAPI-Key': '71f910c9bamsh2130746a2a1b98ep13ec79jsnde569e72742c',
             'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com'
           }
         });
